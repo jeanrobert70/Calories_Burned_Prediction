@@ -4,7 +4,7 @@ This project explores a topic near and dear to my heart: calories burned. The go
 
 RangeIndex: 15000 entries, 0 to 14999
 Data columns (total 9 columns):
- #   Column      Non-Null Count  Dtype  
+    Column      Non-Null Count  Dtype  
 ---  ------      --------------  -----  
  0   User_ID     15000 non-null  int64  
  1   Gender      15000 non-null  object 
