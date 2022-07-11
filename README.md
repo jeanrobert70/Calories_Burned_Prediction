@@ -19,9 +19,9 @@ This is a another simple dataset but I utilize XGBoost Regressor to obtain our o
 
 We're going to take the follow approach:
 
-Problem Defintiion
-Data
-Evaluation
-Features
-Modelling
-Experimentation
+* Problem Defintiion
+* Data
+* Evaluation
+* Features
+* Modelling
+* Experimentation
